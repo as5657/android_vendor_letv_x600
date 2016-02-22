@@ -1,7 +1,7 @@
-# Proprietary blob for Redmi Note 2 (Hermes)
+# Proprietary blob for Letv x600
 
 ### Other resource:
-  - Device tree https://github.com/jianminglok/android_device_xiaomi_hermes
+  - Device tree https://github.com/tomdegryse/android_device_letv_x600
   - Kernel source: Not released yet
 
 ### Credits (Sort by alphabetical order):
